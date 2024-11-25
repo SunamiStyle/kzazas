@@ -1,1 +1,1 @@
-# kzazas
+# Example of README.md
